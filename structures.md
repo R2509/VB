@@ -1,5 +1,3 @@
-# **Visual Basic Stuff**
-
 # 1. Structures
 
 ## **1.1 Creating Structures**
